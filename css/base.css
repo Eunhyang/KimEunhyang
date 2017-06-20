@@ -52,3 +52,9 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption {
     background: rgba(255, 157, 226, 0.9)!important;
 }
+
+.btn-success {
+    color: #fff;
+    background-color: #b797fe !important;
+    border-color: #ffffff !important;
+}
