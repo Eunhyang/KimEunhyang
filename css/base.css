@@ -1,0 +1,50 @@
+body {
+  font-family: 'KoPub Dotum', 'KoPub Batang', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  overflow-x: hidden;
+}
+.navbar-custom {
+    background-color: #f5f5f5 !important;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
+    color: #B693FE !important;
+}
+
+.navbar-custom .navbar-nav li a {
+    color: #B693FE !important;
+}
+
+.navbar-custom .navbar-nav li.active a, .navbar-custom .navbar-nav li.active a:active, .navbar-custom .navbar-nav li.active a:focus, .navbar-custom .navbar-nav li.active a:hover {
+    color: #fff !important;
+    background: #FF9DE2 !important;
+}
+
+
+header {
+    text-align: center !important;
+    background: #eee !important;
+    color: #8C82FC !important;
+}
+.profile{
+    width: 130px !important;
+    height: 130px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+}
+
+
+header .intro-text .name {
+    font-size: 3em !important;
+}
+
+header .intro-text .skills {
+    font-size: 1.1em !important;
+}
+.content {
+    padding-top: 20px;
+}
+
+section.success {
+    background: #B693FE !important;
+    color: #fff;
+}
